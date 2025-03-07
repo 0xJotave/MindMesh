@@ -1,0 +1,17 @@
+target/
+*.log
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
+*.swp
+node_modules/
+dist/
+out-tsc/
+.angular/
+.vscode/
+*.env
+.env.*
